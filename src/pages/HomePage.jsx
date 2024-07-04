@@ -1,5 +1,7 @@
+import Login from "../components/Login";
+
 const HomePage = () => {
-  return <>homepage</>;
+  return <Login />;
 };
 
 export default HomePage;

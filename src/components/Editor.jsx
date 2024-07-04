@@ -5,5 +5,7 @@ import "@blocknote/mantine/style.css";
 
 export default function App() {
   const editor = useCreateBlockNote();
-  return <BlockNoteView editor={editor} />;
+  return (
+    <BlockNoteView className="h-96 overflow-auto rounded-lg" editor={editor} />
+  );
 }
