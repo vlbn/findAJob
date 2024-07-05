@@ -18,7 +18,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        sans: ["Quicksand", "Noto Color Emoji", "sans-serif"],
+        sans: ["Geist", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",

@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Quicksand:wght@300..700&display=swap");
+@font-face {
+  font-family: "Geist";
+  src: local("Geist"),
+    url("./assets/fonts/Geist-Regular.ttf") format("truetype");
+}
 
 @tailwind base;
 @tailwind components;
