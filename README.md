@@ -1,3 +1,3 @@
-# r18
+# findAJob
 
-🚀 react exercises
+🚀 React exercise
